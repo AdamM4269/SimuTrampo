@@ -1,0 +1,44 @@
+.falaise {
+    position: absolute;
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    top : 50px;
+    left: 50px;
+}
+
+.parametre {
+    position: absolute;
+    top : 50px;
+    left: 560px;
+}
+
+.point {
+    position: absolute;
+    background-color: white;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    top: 50px;
+    left: 250px;
+}
+
+.trampo {
+    position: absolute;
+    background-color: red;
+    height: 5px;
+    width: 50px;
+    border-radius: 50%;
+    top: 0px;
+    left: 0px;
+}
+
+.sol {
+    position: absolute;
+    background-color: burlywood;
+    height: 5px;
+    width: 50px;
+    border-radius: 50%;
+    top: 10px;
+    left: 0px;
+}
