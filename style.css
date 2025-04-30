@@ -2,7 +2,7 @@
     position: absolute;
     background-color: black;
     height: 500px;
-    width: 500px;
+    width: 200px;
     top : 50px;
     left: 50px;
 }
@@ -10,7 +10,7 @@
 .parametre {
     position: absolute;
     top : 50px;
-    left: 560px;
+    left: 260px;
 }
 
 .point {
@@ -19,8 +19,8 @@
     height: 5px;
     width: 5px;
     border-radius: 50%;
-    top: 50px;
-    left: 250px;
+    top: 0px;
+    left: 100px;
 }
 
 .trampo {
